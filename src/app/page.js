@@ -59,7 +59,7 @@ export default function Home() {
         </section>
         <section>
           <div>
-            <h3 className='text-3xl py-1'>Servicces i Offer</h3>
+            <h3 className='text-3xl py-1'>Skills and knowledge</h3>
             <p className='text-md py-2 leading-8 text-gray-800'>
               Theoretical knowledge of <span className='text-teal-500'>Machine Learning </span> (decision trees, NLP, image processing).<br></br>
               Hands-on experience with exploratory data analysis and feature engineering.<br></br>
@@ -85,23 +85,24 @@ export default function Home() {
             </div>
             <div className='items-center  text-center shadow-2xl pt-10 rounded-xl my-10'>
               <Image className='mx-auto' src={code} width={100} height={100}/>
-              <h3 className='text-lg  pt-8 pb-2'>Beautiful Designs</h3>
-              <p className='py-2 font-medium'> Creating elegant desings suited for your needs following core design theory.</p>
-              <h4 className='py-4 text-teal-600'>Designs tools i use:</h4>  
-              <p className='text-gray-800 py-1'>Photoshop</p>
-              <p className='text-gray-800 py-1'>Ilustrator</p>
-              <p className='text-gray-800 py-1'>Figma</p>
+              <h3 className='text-lg  pt-8 pb-2'>Coding</h3>
+              <p className='py-2 font-medium'> I have some experience as full stack software developmend and especialy in my forntend skills</p>
+              <h4 className='py-4 text-teal-600'>Tools i use:</h4>  
+              <p className='text-gray-800 py-1'>JavaScript - Python - C++</p>
+              <p className='text-gray-800 py-1'>Html - Css - tailwindcss </p>
+              <p className='text-gray-800 py-1'>mongo - MySQL</p>
 
             </div>
             <div className='items-center  text-center shadow-2xl pt-10 rounded-xl my-10'>
               <Image className='mx-auto' src={consulting} width={100} height={100}/>
-              <h3 className='text-lg  pt-8 pb-2'>Beautiful Designs</h3>
+              <h3 className='text-lg  pt-8 pb-2'>Skills in teamwork</h3>
               
-              <p className='py-2 font-medium'> Creating elegant desings suited for your needs following core design theory.</p>
+              <p className='py-2 font-medium'> Active listening and agile adaptability.
+Understanding the importance of collaboration and diversity of ideas to achieve the best results.</p>
               <h4 className='py-4 text-teal-600'>Designs tools i use:</h4>  
-              <p className='text-gray-800 py-1'>Photoshop</p>
-              <p className='text-gray-800 py-1'>Ilustrator</p>
-              <p className='text-gray-800 py-1'>Figma</p>
+              <p className='text-gray-800 py-1'>Respectful</p>
+              <p className='text-gray-800 py-1'>Fair</p>
+              <p className='text-gray-800 py-1'>honest</p>
 
             </div>
           </div>
